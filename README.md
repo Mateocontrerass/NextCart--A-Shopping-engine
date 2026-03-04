@@ -37,7 +37,6 @@ In production, this gets recalculated every time a client makes a new purchase â
 A good recommendation:
 1. Belongs to a category the client has shown interest in, or one that logically follows from their recent purchases.
 2. Matches their typical price range within that category.
-3. Comes from a trustworthy source (Amazon direct seller preferred).
 
 ---
 
